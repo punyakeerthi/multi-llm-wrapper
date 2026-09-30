@@ -1,4 +1,4 @@
-# LLM API Wrapper
+# Multi-LLM API Wrapper
 
 A unified Python generic wrapper for interacting with multiple Large Language Model (LLM) providers (OpenAI, Anthropic, Google Gemini) through a single, consistent interface.
 
